@@ -2,7 +2,7 @@ import json
 from vidgear.gears import CamGear
 from vidgear.gears import WriteGear
 import cv2
-
+print("Streamer by GHALBEYOU\nGitHub.com/ghalbeyou")
 with open('config.json', 'r') as f:
     CONFIG = json.load(fp=f)
     VIDEO_SOURCE = CONFIG["stream_video_location"]
