@@ -1,21 +1,14 @@
-# Aparat Streamer
-Stream local file videos to aparat servers!
+[Why Aparat Streamer?](/Why)
 
-## Requirements
-- Python
-- vidgear
-- opencv2
+# **Aparat Streamer**
 
-## How to install
-- Download files
-- Open folder and install requirements: `pip install -r requirements.txt`
-- Edit `config.json`
-- Run `python3 main.py`
-- Enjoy!
-## Features
-- Stream with audio
-- Quality is editable (in line `18`)
-- Server is editable (in line `35`)
-- Can stream 24/7
-- Stream's local recorded file
-## Star this repo on github if you love it 💓💞💞
+
+Have you ever wanted to stream 24/7 on aparat/youtube? this repo is for you!
+
+fully configable and its open source!
+
+## Installing from github
+To install from github, [Click me](https://github.com/Ghalbeyou/aparat-streamer/tree/main#how-to-install) to install. there is a full content for you to how to install.
+
+## Rating
+To rate this app, just go to github and star it from [this link](https://github.com/Ghalbeyou/aparat-streamer) !
