@@ -4,10 +4,11 @@ from vidgear.gears import CamGear
 from vidgear.gears import WriteGear
 import cv2
 print("Streamer by GHALBEYOU\nGitHub.com/ghalbeyou")
+# Loads config
 with open('config.json', 'r') as f:
     CONFIG = json.load(fp=f)
-    VIDEO_SOURCE = CONFIG["stream_video_location"]
-    VIDOE_STREAM_KEY = CONFIG["stream_key"]
+    VIDEO_SOURCE = CONFIG["stream_video_location"] # video source
+    VIDOE_STREAM_KEY = CONFIG["stream_key"] # stream key
 
 # Open stream
 stream = CamGear(source=VIDEO_SOURCE, logging=True).start()
