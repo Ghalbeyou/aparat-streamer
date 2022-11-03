@@ -1,5 +1,5 @@
 ﻿certifi==2022.9.24
-charset-normalizer==3.0.0
+charset-normalizer==2.1.1
 colorama==0.4.6
 colorlog==6.7.0
 Cython==0.29.32
