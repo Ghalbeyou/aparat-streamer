@@ -12,5 +12,10 @@ Stream local file videos to aparat servers!
 - Edit `config.json`
 - Run `python3 main.py`
 - Enjoy!
-
+## Features
+- Stream with audio
+- Quality is editable (in line `18`)
+- Server is editable (in line `35`)
+- Can stream 24/7
+- Stream's local recorded file
 ## Star this repo on github if you love it 💓💞💞
