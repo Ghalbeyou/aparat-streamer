@@ -1,4 +1,4 @@
-[Why Aparat Streamer?](/Why)
+[Why Aparat Streamer?](./Why)
 
 # **Aparat Streamer**
 
