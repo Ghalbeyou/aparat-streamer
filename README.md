@@ -1,4 +1,9 @@
 # Aparat Streamer
+![](https://img.shields.io/github/workflow/status/ghalbeyou/Aparat-Streamer/CodeQL)
+![](https://img.shields.io/github/license/ghalbeyou/aparat-streamer)
+![](https://img.shields.io/discord/848844159419023410)
+![](https://img.shields.io/github/downloads/ghalbeyou/aparat-streamer/total)
+
 Stream local file videos to aparat servers!
 
 ## Requirements
