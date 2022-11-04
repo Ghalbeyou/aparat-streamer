@@ -10,6 +10,7 @@ Stream local file videos to aparat servers!
 - Python
 - vidgear
 - opencv2
+- ffmpeg
 
 ## How to install
 - Download files
