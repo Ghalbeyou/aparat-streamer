@@ -1,26 +1,8 @@
-# Aparat Streamer
-![](https://img.shields.io/github/license/ghalbeyou/aparat-streamer)
-![](https://img.shields.io/discord/848844159419023410)
-![](https://img.shields.io/github/downloads/ghalbeyou/aparat-streamer/total)
-## READ HERE (ITS VERY VERY IMPORTANT): https://github.com/Ghalbeyou/aparat-streamer/issues/19
-Stream local file videos to aparat servers!
+# Whats this?
+This is the gui, the user interface, built in java.
 
-## Requirements
-- Python
-- vidgear
-- opencv2
-- ffmpeg
+## What do i do?
+Wait until we push the first commit.
 
-## How to install
-- Download files
-- Open folder and install requirements: `pip install -r requirements.txt`
-- Edit `config.json`
-- Run `python3 main.py`
-- Enjoy!
-## Features
-- Stream with audio
-- Quality is editable (in line `18`)
-- Server is editable (in line `35`)
-- Can stream 24/7
-- Stream's local recorded file
-## Star this repo on github if you love it 💓💞💞
+## Then?
+If you see any issue or if you wanted to add features, clone this repo and open an pull request
