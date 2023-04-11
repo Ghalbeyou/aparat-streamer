@@ -45,7 +45,7 @@ $ python main.py
 or
 
 ```bash
-$ python cli.py -k <stream_key> -l <stream_video_location>
+$ python Streamer.CLI.py -k <stream_key> -l <stream_video_location>
 ```
 
 3. The program will start streaming the video to Aparat using the provided stream key.
